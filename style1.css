@@ -1,0 +1,16 @@
+body {
+    max-width: 1000px;
+    margin: auto;
+    font-family: Roboto;
+}
+div {
+    margin-top: 5px;
+    padding: 20px;
+}
+#image {
+    float: left;
+    padding: 0px 20px 20px 20px;
+}
+#identify {
+    overflow: auto;
+}
